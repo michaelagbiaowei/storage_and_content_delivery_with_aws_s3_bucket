@@ -1,12 +1,10 @@
-Deploy Static Website on AWS
+## **Deploy Static Website on AWS**
 
-In this project, you will deploy a static website to AWS using S3, CloudFront, and IAM.
+## Project Overview
 
-The files included are: 
+The cloud is perfect for hosting static websites that only include HTML, CSS, and JavaScript files that require no server-side processing. The whole project has two major intentions to implement:
 
-index.html - The Index document for the website.
-/img - The background image file for the website.
-/vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
-/css - CSS files for the website.
+- Hosting a static website on S3 and
+- Accessing the cached website pages using CloudFront content delivery network (CDN) service. Recall that CloudFront offers low latency and high transfer speeds during website rendering.
 
-
+  Note that Static website hosting essentially requires a public bucket, whereas the CloudFront can work with public and private buckets.
