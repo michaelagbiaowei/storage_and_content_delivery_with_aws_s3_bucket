@@ -1,5 +1,27 @@
 ## **Deploy Static Website on AWS**
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">Project Overview</a>
+      <ul>
+        <li><a href="#built-with">Frameworks</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#steps">Steps</a></li>
+      </ul>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
 ## Project Overview
 
 The cloud is perfect for hosting static websites that only include HTML, CSS, and JavaScript files that require no server-side processing. The whole project has two major intentions to implement:
@@ -21,7 +43,7 @@ In this project, you will deploy a static website to AWS by performing the follo
 ## Prerequisite
 
 - Amazon Account
-- An **udacity-starter-website** file on local machine
+- An **udacity-starter-website** codebase on local machine
 
 ## 1. Create a Bucket
 
