@@ -144,7 +144,7 @@ Now to check whether things are working properly let's test our CloudFront Distr
 
 ![s1](/images/f3.png)
 
-1. Access the bucket object via its S3 object URL.
+3. Access the bucket object via its S3 object URL.
 
 **[https://my-400894577556-bucket.s3.amazonaws.com/index.html](https://my-400894577556-bucket.s3.amazonaws.com/index.html)**
 
