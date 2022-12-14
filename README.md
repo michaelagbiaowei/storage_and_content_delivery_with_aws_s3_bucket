@@ -2,7 +2,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>## Table of Contents</summary>
+  <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">Project Overview</a>
@@ -25,7 +25,7 @@
         <li><a href="#steps">Access Website in Web Browser</a></li>
       </ul>
     </li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contact">Contacts</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -179,3 +179,9 @@ Now to check whether things are working properly let's test our CloudFront Distr
 **[https://my-400894577556-bucket.s3.amazonaws.com/index.html](https://my-400894577556-bucket.s3.amazonaws.com/index.html)**
 
 ![s1](/images/f2.png)
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiempire/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348089440108)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/michaelagbiaow2)
+
