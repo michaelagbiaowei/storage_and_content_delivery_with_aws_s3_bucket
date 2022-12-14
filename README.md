@@ -14,7 +14,15 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#steps">Steps</a></li>
+        <li><a href="#steps">Create S3 Bucket</a></li>
+        <li><a href="#steps">General configuration</a></li>
+        <li><a href="#steps">Public Access settings</a></li>
+        <li><a href="#steps">Bucket Versioning and Encryption</a></li>
+        <li><a href="#steps">Upload File/Folders to the Bucket</a></li>
+        <li><a href="#steps">Secure Bucket via IAM</a></li>
+        <li><a href="#steps">Enable Static Website Hosting</a></li>
+        <li><a href="#steps">Create Distribution</a></li>
+        <li><a href="#steps">Access Website in Web Browser</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -59,7 +67,7 @@ Provide the bucket-name. The bucket name must be unique worldwide e.g. demo-buck
 
 ![s1](images/s2.png)
 
-## 3. Private Access settings
+## 3. Public Access settings
 
 Allow all public access.
 
@@ -116,7 +124,7 @@ In the index document, write the name of your uploaded html file and click on **
 
 ![s1](/images/s12.png)
 
-## 8. **Create Distribution**
+## 8. Create Distribution
 
 ![s1](/images/c1.png)
 
