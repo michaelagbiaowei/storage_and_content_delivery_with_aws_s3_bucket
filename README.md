@@ -189,3 +189,4 @@ Now to check whether things are working properly let's test our CloudFront Distr
 
 * [Amazon S3 Access Control - IAM Policies, Bucket Policies and ACLs](https://www.youtube.com/watch?v=xFzJw6wJ8eY)
 * [Udacity Cloud DevOps Nanodegree Program](udacity.com)
+* [ALX Africa](https://www.alxafrica.com/)
