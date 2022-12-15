@@ -97,10 +97,13 @@ In this project, you will deploy a static website to AWS by performing the follo
 
 ## Frameworks
 
-* [![HTML][HTML.com]][HTML-url]
-* [![CSS][CSS.com]][CSS-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* ![Bootstrap](https://img.shields.io/badge/Bootstrap-%230175C2.svg?style=for-the-badge&logo=Bootstrap&logoColor=white) 
+
+* <img src="https://img.shields.io/badge/Jquery-323330?style=for-the-badge&logo=Jquery&logoColor=F7DF1E" /> 
+
+* <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+
+* <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
 
 ## 1. Create a Bucket
 
