@@ -1,7 +1,5 @@
 ## **Deploy Static Website on AWS**
 
-<img align= "center" width="300" alt="Coding" src="https://www.pngitem.com/pimgs/m/154-1543425_automatic-backup-service-on-amazon-s3-aws-s3.png">
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -33,6 +31,12 @@
 </details>
 
 ## Project Overview
+
+## What are Amazon S3 Buckets?
+
+S3 stands for Simple Storage Service and a Bucket is a resource that is being provided and offered by the Amazon S3 service.
+
+Buckets consists of data and it's meta data, the data can be any static file e.g., .pdf, png, .txt and many more.
 
 The cloud is perfect for hosting static websites that only include HTML, CSS, and JavaScript files that require no server-side processing. The whole project has two major intentions to implement:
 
