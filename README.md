@@ -95,6 +95,13 @@ In this project, you will deploy a static website to AWS by performing the follo
 - Amazon Account
 - An **udacity-starter-website** codebase on local machine
 
+## Frameworks
+
+* [![HTML][HTML.com]][HTML-url]
+* [![CSS][CSS.com]][CSS-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
+
 ## 1. Create a Bucket
 
 Navigate to the S3 dashboard, and click on the Create bucket button. It will launch a new wizard
