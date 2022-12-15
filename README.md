@@ -1,6 +1,6 @@
 ## **Deploy Static Website on AWS**
 
-<img align= "center" alt="Coding" src="https://www.pngitem.com/pimgs/m/154-1543425_automatic-backup-service-on-amazon-s3-aws-s3.png">
+<img align= "center" width="500" alt="Coding" src="https://www.pngitem.com/pimgs/m/154-1543425_automatic-backup-service-on-amazon-s3-aws-s3.png">
 
 <!-- TABLE OF CONTENTS -->
 <details>
