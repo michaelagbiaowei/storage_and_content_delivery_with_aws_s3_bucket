@@ -60,15 +60,15 @@ Amazon leverages a flat, non-hierarchical structure, storing data as objects wit
 
 ## What is a CDN?
 
-A CDN or Content Delivery Network – is a global network of servers that work together to provide ultra-fast delivery of Internet content, such as web pages, static objects, videos etc. 
+A CDN or Content Delivery Network – is a global network of servers that work together to provide ultra-fast delivery of Internet content, such as web pages, static objects, videos etc.
 
 When people try to access content via the Internet, a CDN makes sure they get it delivered from servers nearest to them, so it arrives faster.
 
 **Simple example:** Doe and Jane both listened the same latest Music. While Doe's Music is delivered from a datacenter in South Africa, because that’s where he resides, Jane's Music is delivered from a datacenter in Kenya, because that’s where she lives. This is made possible through CDN.
 
-**Amazon CloudFront** is the web service to use when seeking to speed up the distribution of your  objects, either in dynamic or static files through a worldwide network of data centers referred to as edge locations. 
+**Amazon CloudFront** is the web service to use when seeking to speed up the distribution of your objects, either in dynamic or static files through a worldwide network of data centers referred to as edge locations.
 
-Content that is served by CloudFront is delivered with the best performance possible, meaning higher speed of delivery. 
+Content that is served by CloudFront is delivered with the best performance possible, meaning higher speed of delivery.
 
 <img align= "center" alt="Coding" src="https://isotropic.co/wp-content/uploads/2022/04/CF-Cache.png">
 
@@ -180,6 +180,10 @@ In the index document, write the name of your uploaded html file and click on **
 
 ![s1](/images/s12.png)
 
+When our S3 Bucket is Enabled, We can test our endpoint using the Bucket Website Endpoint url as shown on the images below
+
+![s1](/images/e1.png)
+
 ## 8. Create Distribution
 
 ![s1](/images/c1.png)
@@ -237,13 +241,13 @@ Now to check whether things are working properly let's test our CloudFront Distr
 ![s1](/images/f2.png)
 
 ## 🔗 Contacts
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiempire/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348089440108)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/michaelagbiaow2)
-[![Gmail](https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=Gmail&logoColor=white)](https://michaelagbia1990@gmail.com)
 
 ## Acknowledgments
 
-* [Amazon S3 Access Control - IAM Policies, Bucket Policies and ACLs](https://www.youtube.com/watch?v=xFzJw6wJ8eY)
-* [Udacity Cloud DevOps Nanodegree Program](udacity.com)
-* [ALX Africa](https://www.alxafrica.com/)
+- [Amazon S3 Access Control - IAM Policies, Bucket Policies and ACLs](https://www.youtube.com/watch?v=xFzJw6wJ8eY)
+- [Udacity Cloud DevOps Nanodegree Program](udacity.com)
+- [ALX Africa](https://www.alxafrica.com/)
