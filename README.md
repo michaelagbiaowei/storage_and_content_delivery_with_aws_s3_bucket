@@ -56,6 +56,14 @@ Amazon leverages a flat, non-hierarchical structure, storing data as objects wit
 
 - **AWS Identity and Access Management** provides additional management of how users can access S3 resources
 
+## What Is Amazon CloudFront?
+
+Amazon CloudFront is the web service to use when seeking to speed up the distribution of your  WordPress web content, either in dynamic or static files through a worldwide network of data centers referred to as edge locations. 
+
+<img align= "center" alt="Coding" src="https://isotropic.co/wp-content/uploads/2022/04/CF-Cache.png">
+
+Content that is served by CloudFront is delivered with the best performance possible, meaning higher speed of delivery. 
+
 ## TASKS
 
 The cloud is perfect for hosting static websites that only include HTML, CSS, and JavaScript files that require no server-side processing. The whole project has two major intentions to implement:
