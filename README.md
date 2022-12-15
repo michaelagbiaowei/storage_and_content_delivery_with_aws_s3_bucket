@@ -99,6 +99,16 @@ Provide the bucket-name. The bucket name must be unique worldwide e.g. demo-buck
 
 The key to most if not all of the security breaches within S3 buckets is due to the public access configurations set on the buckets or objects. Allowing public access allows access to virtually anyone in the entire world, granted they have the unique ARN of the specific bucket or object.
 
+As displayed in the snapshot below, there are four basic options available to limit public access within your account.
+
+- **Block public access to buckets and objects granted through new access control lists (ACLs):** This setting will prevent the creation of new ACLS that permit public access, without impacting existing buckets.
+
+- **Block public access to buckets and objects granted through any access control lists (ACLs):** This setting will prevent the creation of new ACLS that permit public access and will override existing bucket ACLs that permit public access.
+
+- **Block public access to buckets and objects granted through new public bucket or access point policies:** This setting will prevent the creation of future IAM policies that permit public access, without impacting existing buckets.
+
+- **Block public and cross-account access to buckets and objects through anybucket or access point policies:** This setting will prevent the creation of future IAM policies that permit public access and will override existing policies that permit public access.
+
 Allow all public access.
 
 ![s1](/images/s3.png)
