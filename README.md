@@ -95,6 +95,10 @@ Provide the bucket-name. The bucket name must be unique worldwide e.g. demo-buck
 
 ## 3. Public Access settings
 
+## What is Public Access in S3
+
+The key to most if not all of the security breaches within S3 buckets is due to the public access configurations set on the buckets or objects. Allowing public access allows access to virtually anyone in the entire world, granted they have the unique ARN of the specific bucket or object.
+
 Allow all public access.
 
 ![s1](/images/s3.png)
