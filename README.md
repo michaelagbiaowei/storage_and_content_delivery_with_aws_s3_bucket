@@ -44,17 +44,17 @@ This service enables organizations of all sizes and across various industries to
 
 Amazon leverages a flat, non-hierarchical structure, storing data as objects within buckets. Below are some of the most important basic concepts of S3.
 
-**Buckets** serve as the containers for objects and provide the mechanisms necessary to control access to them
+- **Buckets** serve as the containers for objects and provide the mechanisms necessary to control access to them
 
-**An object** is not only the file that is being uploaded but can also include the metadata attributes that describe the file
+- **An object** is not only the file that is being uploaded but can also include the metadata attributes that describe the file
 
-**Access points** are named network endpoints that are attached to buckets that can be used to perform S3 object operations. Each access points have distinct permissions and network controls that are applied to any request made through that access point.
+- **Access points** are named network endpoints that are attached to buckets that can be used to perform S3 object operations. Each access points have distinct permissions and network controls that are applied to any request made through that access point.
 
-**Bucket Policies** provide granular controls to buckets and the objects stored within buckets.
+- **Bucket Policies** provide granular controls to buckets and the objects stored within buckets.
 
-**Access Control Lists** vary from policies in that they can add grant permissions on buckets or on individual objects
+- **Access Control Lists** vary from policies in that they can add grant permissions on buckets or on individual objects
 
-**AWS Identity and Access Management** provides additional management of how users can access S3 resources
+- **AWS Identity and Access Management** provides additional management of how users can access S3 resources
 
 ## TASKS
 
