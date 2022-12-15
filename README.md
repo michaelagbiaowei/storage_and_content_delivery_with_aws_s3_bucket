@@ -1,4 +1,4 @@
-## **Deploy Static Website on AWS**
+## **Deploy Static Website on AWS Using Amazon S3 Bucket and Content Delivery Network (CloudFront)**
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -7,13 +7,15 @@
     <li>
       <a href="#about-the-project">Project Overview</a>
       <ul>
+        <li><a href="#prerequisites">What are S3 Buckets</a></li>
+        <li><a href="#built-with">AWS S3 Basics</a></li>
+        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#built-with">Frameworks</a></li>
       </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#steps">Create S3 Bucket</a></li>
         <li><a href="#steps">General configuration</a></li>
         <li><a href="#steps">Public Access settings</a></li>
@@ -56,9 +58,15 @@ Amazon leverages a flat, non-hierarchical structure, storing data as objects wit
 
 - **AWS Identity and Access Management** provides additional management of how users can access S3 resources
 
-## What Is Amazon CloudFront?
+## What is a CDN?
 
-Amazon CloudFront is the web service to use when seeking to speed up the distribution of your  WordPress web content, either in dynamic or static files through a worldwide network of data centers referred to as edge locations. 
+A CDN or Content Delivery Network – is a global network of servers that work together to provide ultra-fast delivery of Internet content, such as web pages, static objects, videos etc. 
+
+When people try to access content via the Internet, a CDN makes sure they get it delivered from servers nearest to them, so it arrives faster.
+
+**Simple example:** Doe and Jane both listened the same latest Music. While Doe's Music is delivered from a datacenter in South Africa, because that’s where he resides, Jane's Music is delivered from a datacenter in Kenya, because that’s where she lives. This is made possible through CDN.
+
+**Amazon CloudFront** is the web service to use when seeking to speed up the distribution of your  objects, either in dynamic or static files through a worldwide network of data centers referred to as edge locations. 
 
 Content that is served by CloudFront is delivered with the best performance possible, meaning higher speed of delivery. 
 
