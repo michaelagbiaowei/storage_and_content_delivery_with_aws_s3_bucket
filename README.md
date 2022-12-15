@@ -60,9 +60,9 @@ Amazon leverages a flat, non-hierarchical structure, storing data as objects wit
 
 Amazon CloudFront is the web service to use when seeking to speed up the distribution of your  WordPress web content, either in dynamic or static files through a worldwide network of data centers referred to as edge locations. 
 
-<img align= "center" alt="Coding" src="https://isotropic.co/wp-content/uploads/2022/04/CF-Cache.png">
-
 Content that is served by CloudFront is delivered with the best performance possible, meaning higher speed of delivery. 
+
+<img align= "center" alt="Coding" src="https://isotropic.co/wp-content/uploads/2022/04/CF-Cache.png">
 
 ## TASKS
 
